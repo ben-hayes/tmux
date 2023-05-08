@@ -1,0 +1,17 @@
+# NOTE: you can use vars with $<var> and ${<var>} as long as the str is double quoted: ""
+# WARNING: hex colors can't contain capital letters
+
+# --> Everforest
+thm_bg="#303446"
+thm_fg="#d8caac"
+thm_cyan="#87c095"
+thm_black=j#3c474d"
+thm_gray="#868d80"
+thm_magenta="#d39bb6"
+thm_pink="#e68183"
+thm_red="#e68183"
+thm_green="#a7c080"
+thm_yellow="#d9bb80"
+thm_blue="#83b6af"
+thm_orange="#d9bb80"
+thm_black4="#868d80"
